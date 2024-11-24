@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mukul-singh-16/ExcelColumnConverter/issues"
   },
-  "homepage": "https://github.com/mukul-singh-16/ExcelColumnConverter#readme"
+  "homepage": "https://github.com/mukul-singh-16/ExcelColumnConverter#readme",
+  "dependencies": {
+    "excelcolumnconverter": "^1.0.2"
+  }
 }

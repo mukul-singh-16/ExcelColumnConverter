@@ -8,7 +8,7 @@
 Install the package via npm:
 
 ```bash
-npm install excel-column-converter
+npm install excelcolumnconverter
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ Import the package and use the provided functions:
 ### Example:
 
 ```javascript
-const ExcelColumnConverter = require('excel-column-converter');
+const ExcelColumnConverter = require('excelcolumnconverter');
 
 // Convert number to Excel column string
 console.log(ExcelColumnConverter.numberToColumn(1));     // Output: A
